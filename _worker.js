@@ -1,4 +1,4 @@
-const TELEGRAPH_URL = 'https://api.openai.com';
+const TELEGRAPH_URL = 'https://platform.openai.com';
 
 
 export default {
